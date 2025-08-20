@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Satish K C. 
 
-Welcome to my GitHub profile! I’m a **Data Scientist and Machine Learning Enthusiast** passionate about **Generative AI**, **NLP**, and solving real-world problems through data-driven insights. My background blends engineering precision and innovative problem-solving, transitioning from **Mechanical Engineering** to **Industrial Engineering** and finally into the exciting world of **AI and Data Science**.
+Welcome to my GitHub profile! I’m a **Data Scientist and Machine Learning Enthusiast** passionate about **Generative AI**, **NLP**, and solving real-world problems through data-driven insights. My background blends engineering precision and innovative problem-solving, transitioning from **Mechanical Engineering** to the exciting world of **AI and Data Science**.
 
 ---
 
