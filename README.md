@@ -61,7 +61,7 @@ I architect production AI systems that turn complex data problems into measurabl
 
 ### Open Source Contributions
 
-Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, and **Haystack**, with PRs under review at **PyTorch**, **Keras**, **LlamaFactory**, **Lightning**, **AutoGluon**, and **ChromaDB**.
+Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, and **Keras**, with PRs under review at **PyTorch**, **LlamaFactory**, **Lightning**, **AutoGluon**, and **ChromaDB**.
 
 **Merged**
 
@@ -72,13 +72,13 @@ Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, and *
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
 | `qutip/qutip-qip` | Default zero state for `QubitCircuit.run()` | [#376](https://github.com/qutip/qutip-qip/pull/376) |
 | `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
+| `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
 
 **Under Review**
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
 | `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
-| `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
 | `hiyouga/LlamaFactory` | Fix `json.load` failure with PosixPath | [#10361](https://github.com/hiyouga/LlamaFactory/pull/10361) |
 | `Lightning-AI/lightning` | Fix CometLogger offline mode bug | [#21634](https://github.com/Lightning-AI/pytorch-lightning/pull/21634) |
 | `autogluon/autogluon` | Custom `cv_splitter` for TabularPredictor | [#5628](https://github.com/autogluon/autogluon/pull/5628) |
