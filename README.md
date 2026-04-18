@@ -68,11 +68,11 @@ Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Hay
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
 | `ggml-org/llama.cpp` | Fix WebUI CORS proxy missing API key for MCP connections | [#21193](https://github.com/ggml-org/llama.cpp/pull/21193) |
+| `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
+| `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
 | `optuna/optuna` | Move type-only imports into `TYPE_CHECKING` block | [#6609](https://github.com/optuna/optuna/pull/6609) |
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
 | `qutip/qutip-qip` | Default zero state for `QubitCircuit.run()` | [#376](https://github.com/qutip/qutip-qip/pull/376) |
-| `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
-| `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
 
 **Under Review**
 
