@@ -61,12 +61,13 @@ I architect production AI systems that turn complex data problems into measurabl
 
 ### Open Source Contributions
 
-Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, and **Keras**, with PRs under review at **PyTorch**, **LlamaFactory**, **Lightning**, **AutoGluon**, and **ChromaDB**.
+Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, and **Keras**, with PRs under review at **LlamaFactory**, **Lightning**, **AutoGluon**, and **ChromaDB**.
 
 **Merged**
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
+| `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
 | `ggml-org/llama.cpp` | Fix WebUI CORS proxy missing API key for MCP connections | [#21193](https://github.com/ggml-org/llama.cpp/pull/21193) |
 | `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
 | `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
@@ -78,7 +79,6 @@ Contributions merged into **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Hay
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
-| `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
 | `hiyouga/LlamaFactory` | Fix `json.load` failure with PosixPath | [#10361](https://github.com/hiyouga/LlamaFactory/pull/10361) |
 | `Lightning-AI/lightning` | Fix CometLogger offline mode bug | [#21634](https://github.com/Lightning-AI/pytorch-lightning/pull/21634) |
 | `autogluon/autogluon` | Custom `cv_splitter` for TabularPredictor | [#5628](https://github.com/autogluon/autogluon/pull/5628) |
