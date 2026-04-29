@@ -67,14 +67,14 @@ Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **Q
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
-| `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
+| `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
 | `ggml-org/llama.cpp` | Fix WebUI CORS proxy missing API key for MCP connections | [#21193](https://github.com/ggml-org/llama.cpp/pull/21193) |
+| `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
 | `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
 | `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
 | `optuna/optuna` | Move type-only imports into `TYPE_CHECKING` block | [#6609](https://github.com/optuna/optuna/pull/6609) |
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
 | `qutip/qutip-qip` | Default zero state for `QubitCircuit.run()` | [#376](https://github.com/qutip/qutip-qip/pull/376) |
-| `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
 
 **Under Review**
 
