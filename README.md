@@ -61,7 +61,7 @@ I architect production AI systems that turn complex data problems into measurabl
 
 ### Open Source Contributions
 
-Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, and **Keras**, with PRs under review at **LlamaFactory**, **Lightning**, **AutoGluon**, and **ChromaDB**.
+Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, **Keras**, and **OpenClaw**, with PRs under review at **LlamaFactory**, **Lightning**, **AutoGluon**, **ChromaDB**, and **OpenClaw**.
 
 **Merged**
 
@@ -74,6 +74,7 @@ Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **Q
 | `optuna/optuna` | Move type-only imports into `TYPE_CHECKING` block | [#6609](https://github.com/optuna/optuna/pull/6609) |
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
 | `qutip/qutip-qip` | Default zero state for `QubitCircuit.run()` | [#376](https://github.com/qutip/qutip-qip/pull/376) |
+| `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
 
 **Under Review**
 
@@ -83,6 +84,7 @@ Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **Q
 | `Lightning-AI/lightning` | Fix CometLogger offline mode bug | [#21634](https://github.com/Lightning-AI/pytorch-lightning/pull/21634) |
 | `autogluon/autogluon` | Custom `cv_splitter` for TabularPredictor | [#5628](https://github.com/autogluon/autogluon/pull/5628) |
 | `chroma-core/chroma` | Azure OpenAI embedding deployment tests | [#6760](https://github.com/chroma-core/chroma/pull/6760) |
+| `openclaw/openclaw` | Fix systemd linger ordering before service install on headless servers | [#54567](https://github.com/openclaw/openclaw/pull/54567) |
 
 ---
 
