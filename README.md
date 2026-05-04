@@ -18,45 +18,6 @@ I architect production AI systems that turn complex data problems into measurabl
 
 **Previously** - OCR and document classification systems at **Bitpoint** (75% reduction in manual entry across 500+ daily medical bills) and a multi-domain legal RAG system at **Hartsfield & Associates** (91% Recall@5 across 1,500+ documents).
 
-**Education** - MS in Data Science (4.0 GPA) | BE in Mechanical Engineering | [Peer-reviewed publication](https://doi.org/10.5815/ijeme.2020.03.03) on queuing theory
-
----
-
-### Technical Expertise
-
-| Domain | Technologies |
-|:-------|:------------|
-| **Languages** | Python, SQL, JavaScript, TypeScript, R |
-| **ML & AI** | PyTorch, TensorFlow, Scikit-learn, HuggingFace, LangChain, LangGraph, CrewAI |
-| **LLMs & GenAI** | OpenAI, Claude, Groq, AWS Bedrock, RAG architectures, Fine-tuning |
-| **Cloud & Infrastructure** | AWS (Bedrock, S3, RDS, App Runner, Amplify), Docker, PostgreSQL, MongoDB, Redis, FAISS |
-| **Automation** | n8n, Zapier, Power Automate |
-| **Visualization** | Tableau, Power BI, Plotly, D3.js |
-
----
-
-### Industry & Client Projects
-
-| Project | Impact | Stack |
-|:--------|:-------|:------|
-| **Enterprise Field Services Automation** | 80% reduction in administrative overhead | n8n, Zapier, Monday.com, Gemini AI |
-| **Legal Research AI** | 91% Recall@5, sub-3s query latency across 1,500+ docs | Groq LLaMA 3.1, FAISS, Sentence-Transformers |
-| **LoanPilot Social** | RESPA & NMLS compliant AI content generation | OpenAI, LangChain, Next.js 14 |
-| **TaxIntake** | AES-256 encrypted full-stack client onboarding | React, Node.js, PostgreSQL, AWS, n8n |
-| **PodBrain** | Semantic attendee matching via 27-point logic matrix | AWS Bedrock, Amazon Titan, FastAPI |
-| **CyberOutreach** | B2B multi-agent GTM with persona-specific campaigns | Claude 3.7 Sonnet, Apollo.io, HubSpot |
-
----
-
-### Research Projects
-
-| Project | Result | |
-|:--------|:-------|:-:|
-| **Hybrid Residual LSTM Forecasting** | Gold price prediction - 0.37% MAPE, bidirectional LSTM + Attention | [Repo](https://github.com/satishkc7/Gold-Price-Forecasting-Short-Term-vs.-Long-Term-LSTM-Models) |
-| **Cognitive Document Retrieval** | RAG pipeline with vector-semantic search and Groq inference | [Repo](https://github.com/satishkc7/Groq) |
-| **Autonomous Financial Multi-Agent** | LLaMA 3.2-based multi-agent system for market research | [Repo](https://github.com/satishkc7/MultiAgentAI) |
-| **Time Series Benchmarking** | ARIMA, SARIMA, SARIMAX, and Prophet comparison study | [Repo](https://github.com/satishkc7/Comparative-Analysis-of-Time-Series-Forecasting-ARIMA-SARIMA-SARIMAX-and-Prophet-Models) |
-
 ---
 
 ### Open Source Contributions
@@ -75,18 +36,6 @@ Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **Q
 | `optuna/optuna` | Move type-only imports into `TYPE_CHECKING` block | [#6609](https://github.com/optuna/optuna/pull/6609) |
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
 | `qutip/qutip-qip` | Default zero state for `QubitCircuit.run()` | [#376](https://github.com/qutip/qutip-qip/pull/376) |
-
-**Under Review**
-
-| Project | Contribution | PR |
-|:--------|:-------------|:--:|
-| `hiyouga/LlamaFactory` | Fix `json.load` failure with PosixPath | [#10361](https://github.com/hiyouga/LlamaFactory/pull/10361) |
-| `Lightning-AI/lightning` | Fix CometLogger offline mode bug | [#21634](https://github.com/Lightning-AI/pytorch-lightning/pull/21634) |
-| `autogluon/autogluon` | Custom `cv_splitter` for TabularPredictor | [#5628](https://github.com/autogluon/autogluon/pull/5628) |
-| `chroma-core/chroma` | Azure OpenAI embedding deployment tests | [#6760](https://github.com/chroma-core/chroma/pull/6760) |
-| `openclaw/openclaw` | Fix systemd linger ordering before service install on headless servers | [#54567](https://github.com/openclaw/openclaw/pull/54567) |
-
----
 
 ### Certifications
 
