@@ -22,10 +22,6 @@ I architect production AI systems that turn complex data problems into measurabl
 
 ### Open Source Contributions
 
-Contributions merged into **PyTorch**, **llama.cpp**, **Optuna**, **River**, **QuTiP**, **Haystack**, **Keras**, and **OpenClaw**, with PRs under review at **LlamaFactory**, **Lightning**, **AutoGluon**, **ChromaDB**, and **OpenClaw**.
-
-**Merged**
-
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
 | `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
