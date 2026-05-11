@@ -6,7 +6,7 @@
 
 Houston, TX
 
-<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://ai-automation-chronicle.github.io/ai-automation-chronicle/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
+<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
 
 </div>
 
@@ -48,12 +48,12 @@ I architect production AI systems that turn complex data problems into measurabl
 
 I write a weekly research publication breaking down the latest AI papers and automation frameworks into actionable insights for practitioners.
 
-[**Read the Chronicle**](https://ai-automation-chronicle.github.io/ai-automation-chronicle/)
+[**Read the Chronicle**](https://chronicle.kcsatish.com/)
 
 ---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://ai-automation-chronicle.github.io/ai-automation-chronicle/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
+<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
 
 </div>
