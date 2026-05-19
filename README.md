@@ -24,6 +24,7 @@ I architect production AI systems that turn complex data problems into measurabl
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
+| `roboflow/supervision` | Fix: preserve audio stream in `process_video` | [#2252](https://github.com/roboflow/supervision/pull/2252) |
 | `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
 | `langgenius/dify` | Refactor: replace dict params with BaseModel in AppService | [#35904](https://github.com/langgenius/dify/pull/35904) |
 | `ggml-org/llama.cpp` | Fix WebUI CORS proxy missing API key for MCP connections | [#21193](https://github.com/ggml-org/llama.cpp/pull/21193) |
