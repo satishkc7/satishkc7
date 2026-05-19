@@ -24,12 +24,12 @@ I architect production AI systems that turn complex data problems into measurabl
 
 | Project | Contribution | PR |
 |:--------|:-------------|:--:|
-| `roboflow/supervision` | Fix: preserve audio stream in `process_video` | [#2252](https://github.com/roboflow/supervision/pull/2252) |
 | `openclaw/openclaw` | Add AllowTcpForwarding prerequisite to Hetzner SSH tunnel docs | [#54564](https://github.com/openclaw/openclaw/pull/54564) |
 | `langgenius/dify` | Refactor: replace dict params with BaseModel in AppService | [#35904](https://github.com/langgenius/dify/pull/35904) |
 | `ggml-org/llama.cpp` | Fix WebUI CORS proxy missing API key for MCP connections | [#21193](https://github.com/ggml-org/llama.cpp/pull/21193) |
 | `pytorch/pytorch` | Fix misleading `out_dtype` signatures in bmm/mm/addmm docs | [#179182](https://github.com/pytorch/pytorch/pull/179182) |
 | `keras-team/keras` | Fix DepthwiseConv1D `channels_first` dilation bug | [#22641](https://github.com/keras-team/keras/pull/22641) |
+| `roboflow/supervision` | Fix: preserve audio stream in `process_video` | [#2252](https://github.com/roboflow/supervision/pull/2252) |
 | `deepset-ai/haystack` | Update llama.cpp repository links to ggml-org | [#10964](https://github.com/deepset-ai/haystack/pull/10964) |
 | `optuna/optuna` | Move type-only imports into `TYPE_CHECKING` block | [#6609](https://github.com/optuna/optuna/pull/6609) |
 | `online-ml/river` | Per-sample weights in progressive validation | [#1795](https://github.com/online-ml/river/pull/1795) |
