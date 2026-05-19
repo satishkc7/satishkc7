@@ -6,7 +6,7 @@
 
 Houston, TX
 
-<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
+<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://www.kcsatish.com/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
 
 </div>
 
@@ -44,16 +44,24 @@ I architect production AI systems that turn complex data problems into measurabl
 
 ---
 
+### Portfolio
+
+Case studies and project breakdowns covering production ML systems, LLM pipelines, and automation infrastructure.
+
+[**kcsatish.com**](https://www.kcsatish.com/)
+
+---
+
 ### AI & Automation Chronicle
 
-I write a weekly research publication breaking down the latest AI papers and automation frameworks into actionable insights for practitioners.
+Weekly research publication breaking down the latest AI papers and automation frameworks for practitioners. Covers LLMs, agents, deep learning, quantization, and production deployment patterns — with visual summaries, technical depth, and estimated read times. Includes weekly Zoom discussions for subscribers.
 
-[**Read the Chronicle**](https://chronicle.kcsatish.com/)
+[**chronicle.kcsatish.com**](https://chronicle.kcsatish.com/)
 
 ---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://portfolio-satishkc.vercel.app/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
+<a href="https://www.linkedin.com/in/satishkc7/">LinkedIn</a> &middot; <a href="https://www.kcsatish.com/">Portfolio</a> &middot; <a href="https://chronicle.kcsatish.com/">AI Chronicle</a> &middot; <a href="mailto:satishkc19@gmail.com">satishkc19@gmail.com</a>
 
 </div>
